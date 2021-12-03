@@ -6,6 +6,10 @@ Repo for all assignment and group-projects for the course "EC-444: Synthesis and
 
 - For a given variable ordering, find and display the ROBDD (Reduced Ordered Binary Decision Diagram) of the function
 
+## Project Code
+
+All code related to the assignment (Implementation of the above questions) can be found in the [Python Notebook](Assignment1_181EC102_AdithyaJayan.ipynb)
+
 ## Project Report
 
 All documentation for the project/Code can be found in the [Report](SODC_Course_Project_Report.pdf)
